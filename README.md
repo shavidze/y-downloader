@@ -12,10 +12,14 @@ pytube
 - Make sure you have Python 3.9 or a higher version installed.
 - Install the required dependencies using the following command:
 
-```bash pip install -r requirements.txt ```
+```bash 
+pip install -r requirements.txt 
+```
 
 ## Usage
 - Open a terminal or command prompt.
 - Navigate to the project directory.
 - Run the following command to start the application:
-```bash python main.py ```
+```bash
+ python main.py 
+```
